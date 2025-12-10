@@ -12,7 +12,7 @@ public class Book {
         // TODO: set the instance variable to the parameter
 
     }
-
+//looked over what i was going to do
     public void print(){
         System.out.println("title: " + title);
         System.out.println("author: " + author);
