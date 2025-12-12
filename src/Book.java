@@ -7,8 +7,8 @@ public class Book {
     public String author;
     
     public Book(int pRating){
-        title = "Grandmaster of Demonic Cultivation";
-        author = "MO Xiang Tong Xiu";
+        title = "Old Man and the Sea";
+        author = "Earnest Hemingway";
         // TODO: set the instance variable to the parameter
 
     }
